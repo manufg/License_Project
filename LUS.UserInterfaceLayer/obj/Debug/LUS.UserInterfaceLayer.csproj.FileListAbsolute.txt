@@ -1,0 +1,12 @@
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\bin\Debug\LUS.UserInterfaceLayer.exe.config
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\bin\Debug\LUS.UserInterfaceLayer.exe
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\bin\Debug\LUS.UserInterfaceLayer.pdb
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.csprojAssemblyReference.cache
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.LoginForm.resources
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.Properties.Resources.resources
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.csproj.GenerateResource.cache
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.exe
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.pdb
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.AdminForm.resources
+C:\Users\Manu\Source\Repos\License_Project\LUS.UserInterfaceLayer\obj\Debug\LUS.UserInterfaceLayer.UserForm.resources

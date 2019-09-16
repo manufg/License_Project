@@ -43,3 +43,12 @@ D:\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.csproj.CoreComp
 D:\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.csproj.CopyComplete
 D:\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.dll
 D:\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.pdb
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\bin\Debug\LUS.BusinessLayer.dll
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\bin\Debug\LUS.BusinessLayer.pdb
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\bin\Debug\LUS.DataAccessLayer.dll
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\bin\Debug\LUS.DataAccessLayer.pdb
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.csproj.CopyComplete
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.dll
+C:\Users\Manu\Source\Repos\License_Project\LUS.BusinessLayer\obj\Debug\LUS.BusinessLayer.pdb

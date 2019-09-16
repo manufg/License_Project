@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUS.DataAccessLayer", "LUS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUS.BusinessLayer", "LUS.BusinessLayer\LUS.BusinessLayer.csproj", "{7ADE1C1C-D488-44B9-A06D-ECC978F62DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm\LoginForm.csproj", "{73A474F3-04CB-404C-93C4-C87054DEF29C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUS.UserInterfaceLayer", "LUS.UserInterfaceLayer\LUS.UserInterfaceLayer.csproj", "{F9A9E271-CF33-444A-B5A6-5FEEEE25FA41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{7ADE1C1C-D488-44B9-A06D-ECC978F62DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADE1C1C-D488-44B9-A06D-ECC978F62DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADE1C1C-D488-44B9-A06D-ECC978F62DE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73A474F3-04CB-404C-93C4-C87054DEF29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73A474F3-04CB-404C-93C4-C87054DEF29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73A474F3-04CB-404C-93C4-C87054DEF29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73A474F3-04CB-404C-93C4-C87054DEF29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A9E271-CF33-444A-B5A6-5FEEEE25FA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A9E271-CF33-444A-B5A6-5FEEEE25FA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A9E271-CF33-444A-B5A6-5FEEEE25FA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A9E271-CF33-444A-B5A6-5FEEEE25FA41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
