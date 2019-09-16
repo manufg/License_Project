@@ -1,0 +1,7 @@
+<copyright company="Siemens AG">
+Copyright Siemens AG 2008-2019. All rights reserved.
+Confidential
+author
+last modified date
+</copyright>
+
